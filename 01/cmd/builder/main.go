@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"requirements-engineering/builder"
+	"github.com/mxs2/requirements-engineering/01/builder"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"requirements-engineering/singleton"
+	"github.com/mxs2/requirements-engineering/01/singleton"
 )
 
 func main() {
